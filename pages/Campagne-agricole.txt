@@ -1,0 +1,29 @@
+<div class="col-md-12 mb-5">
+                        <p class="texte">La campagne agricole 2011/2012 est caractérisée par un déficit des précipitations dans le temps et dans l'espace, cette situation a un impact négatif sur le déroulement des cultures d'automne surtout les céréales, aussi la diminution du niveau de la réserve du barrage ; les gelées durables rendront la réussite de la campagne difficile. Ainsi le  cumul  moyen enregistré actuellement est de 37mm. Soit une diminution de 40% par rapport à une année normale.</p>
+                        <p class="texte">Situation du barrage : 124 Mm<sup>3</sup> au 22/02/2012</p>
+                        <p class="texte" style="font-size: large">LES MESURES PRISES POUR LE BON DEROULEMENT DE LA CAMPAGNE AGRICOLE 2011/12 peuvent être scindées en deux : </p>
+                        <ul>
+                            <li>Approvisionnement des agriculteurs en facteurs de production et contrôle de leur qualité</li>
+                            <p class="texte">Pour assurer à temps et dans les bonnes conditions l'approvisionnement des agriculteurs en facteurs de production, l'ORMVA du Tafilalet a pris les dispositions suivantes :</p>
+                            <ul>
+                                <li class="texte">Mise à la disposition des sociétés " SONACOS " et " FERTIMA "  des magasins de l'Office ainsi que tous les moyens humains et matériel dont elles auront besoin ;</li>
+                                <li class="texte">Création d'une cellule de suivi de déroulement de la campagne au niveau  de l'office ;</li>
+                                <li class="texte">Matériel agricole mobilisable ==> Tracteurs : 450 unités</li>
+                            </ul>
+                            <li>Encadrement des agriculteurs</li>
+                            <p class="texte">Un programme d'encadrement intensif et rapproché pour améliorer la production des céréales a été élaboré. Les actions prévues s'articulent autour de l'amélioration du travail et du désherbage chimique contre les monocotylédones et les dicotylédones.  Les thèmes de vulgarisation vont porter sur les opérations suivantes :</p>
+                            <ul>
+                                <li class="texte">Le travail du sol et la préparation du lit de semence ;</li>
+                                <li class="texte">L'utilisation des semences sélectionnées et la désinfection des semences locales ;</li>
+                                <li class="texte">Le désherbage chimique contres les adventices ;</li>
+                                <li class="texte">L'incitation des agriculteurs à l'économie et la gestion de l'eau d'irrigation avec l'équipement de plus de 450 ha de goutte à goutte;</li>
+                                <li class="texte">La récolte, le battage et le stockage des céréales.</li>
+                            </ul>
+                            <p class="texte">Actuellement sur 36.000 Ha proposés à la céréaliculture seulement 23.000 Ha, soit 64%, ont été emblavés et qui peuvent être réparties par espèces comme suit :</p>
+                          <ol>
+                            <li class="texte">Blé dur      : 6.600   Ha</li>
+                            <li class="texte">Blé Tendre : 12.400 Ha</li>
+                            <li class="texte"> Orge    : 4.000  Ha</p>
+                          </ol>
+                        </ul>
+                    </div>

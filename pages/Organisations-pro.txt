@@ -1,0 +1,38 @@
+ <div class="col-md-12 mb-5">
+                        <p class="texte">En tant que partie intégrante et prometteuse de l'économie sociale, le secteur coopératif occupe une place de choix aussi bien dans le tissu économique que dans la politique du développement économique et social, déclinée par les pouvoirs publics.</p>
+                        <p class="texte">Au niveau de la zone, le taux d'adhésion des agriculteurs aux coopératives est de 27 %. Ce taux connaît une nette amélioration au fil des années du fait de l'intérêt accordé par la population rurale en général et les agriculteurs en particulier à la forme d'organisation coopérative.</p>
+                        <p class="texte">technologies et du savoir faire et une plate forme adéquate pour la promotion de l'économie des filières, objet d'organisation. Actuellement, ces structures sont limitées à des réalisations qui sont en deçà de leurs potentialitées et qui affectent leurs résultats d'exploitation à cause de certaines contraintes d'ordre fonctionnel.</p>
+                        <p class="texte">Pour contribuer au développement de ces institutions, le service de la vulgarisation et de l'organisation professionnelle de l'ORMVA du Tafilalet déploie d'importants efforts en vue de : </p>
+                        <ul>
+                            <li class="texte">Renforcer d'abord l'organisation professionnelle en incitant et accompagnant les agriculteurs à s'organiser en coopératives ou en associations professionnelles ;</li>
+                            <li class="texte">Apporter l'appui aux organisations existantes dans les domaines de gestion administrative et comptable ainsi que dans le montage des projets.</li>
+                        </ul>
+                        <p class="texte">Dans cette optique un arsenal d'actions sont l'œuvre chaque année afin de relayer les orientations nationales à l'échelle de la zone d'action de l'ORMVATF et répondre au mieux aux exigences et aux spécificités locales. Ces actions sont comme suit :</p>
+                            <h5>1. Actions menées en faveur des adhérents des coopératives</h5>
+                            <ul>
+                                <li>Appui administratif et juridique </li>
+                                <ul>
+                                 <li class="texte">Sensibilisation des coopératives agricoles autour modalités de création des activités génératrices de revenus; </li>
+                                 <li class="texte">Réalisation des études de faisabilité technique de création des coopératives, pour les déclarations d'intention de création, émanant de l'office du développement de la coopération (ODCO) ; </li>
+                                 <li class="texte">Assistance à la préparation et à la tenue des assemblées de constitution, générale ordinaire et extra ordinaire des coopératives ; </li>
+                                 <li class="texte">Accompagnement des agriculteurs lors de la préparation des dossiers de constitution ; </li>
+                                 <li class="texte">Suivi des dossiers des coopératives agricoles en cours de création ;</li>
+                                 <li class="texte">Appui au profit des membres du conseil d'administration lors de la constitution du dossier d'agrément ;</li>
+                                 <li class="texte">Suivi des dossiers des coopératives agricoles en phase d'agrément.</li>
+                                </ul>
+                            <li>Appui technique</li>
+                            <ul>
+                                <li class="texte">Organisation de Voyages inter zones au profit des adhérents des coopératives ; </li>
+                                <li class="texte">Participation des adhérents et membre du bureau aux séminaires et aux foires locales, Régionales et nationales ; </li>
+                                <li class="texte">Formation des membres du bureau sur l'action coopératives principes et valeurs, la législation coopérative et la gestion comptable et administrative des coopératives. </li>
+                                <li class="texte">Accompagnement des membres des coopératives lors du montage d'un projet à soumettre éventuellement pour financement.</li>
+                            </ul>
+                            </ul>
+                            <h5>2. Actions d'appuis menés en faveur du personnel encadrants des coopératives</h5>
+                            <p class="texte">Dans le but d'améliorer la qualité du service conseil rendu aux coopératives, l'ORMVA du Tafilalet mène chaque année une série d'actions visant l'amélioration du niveau de compétences du personnel chargé de l'encadrement des coopératives pour qu'il puisse accomplir ses taches dans les règles de l'art. Ces actions sont comme suit:</p>
+                            <ul>
+                                <li class="texte">Dotation des coordinations, des subdivisions et des CMV de supports d'aide à la gestion des dossiers des coopératives.</li>
+                                <li class="texte">Information des agents du terrain sur les nouveautés relatifs à la gestion des dossiers des coopératives et les procédures de constitution et d'agrément ;</li>
+                                <li class="texte">La mise à niveau des coopératives actives et l'assainissement des coopératives inactives en collaboration avec l'ODCO.</li>
+                            </ul>
+                    </div>

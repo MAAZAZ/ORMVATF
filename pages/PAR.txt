@@ -1,0 +1,287 @@
+                        <p class="texte">L'agriculture marocaine se trouve aujourd'hui face à plusieurs défis posés par son contexte intérieur et extérieur. Ces défis l'obligent à entreprendre des réexamens radicaux pour répondre à une exigence de changement, d'innovation et de réforme pour un scénario de progrès durable.
+                            Devant de tels défis et en exécution des hautes directives de Sa Majesté Le Roi Mohammed VI que Dieu Le glorifie, le Département de l'Agriculture s'est investi dans la formulation d'une nouvelle stratégie intitulé "PLAN MAROC VERT".</p>
+                        <p class="texte">Le «Plan Maroc Vert» exposé par Monsieur le Ministre de l'Agriculture et de la Pêche Maritime, devant Sa Majesté le Roi Mohammed VI, lors des premières assises de l'agriculture, tenues à Meknès, le 22 avril 2008, place l'agriculture au coeur du développement économique et social du pays.</p>
+                        <p class="texte">Le Plan Maroc Vert vise la mise en valeur de l'ensemble du potentiel agricole territorial et la rupture avec l'image simpliste d'une agriculture duale opposant un secteur moderne à un secteur traditionnel et vivrier. </p>
+                        <p class="texte">Pour cela, le Plan Maroc Vert s'articule autour de deux piliers : </p>
+                        <ul>
+                            <li class="texte">le pilier I vise le développement accéléré d'une agriculture moderne, compétitive, à haute valeur ajoutée et adaptée aux règles du marché ; </li>
+                            <li class="texte">le pilier II vise la mise à niveau des acteurs fragiles et la lutte contre la pauvreté rurale à travers l'amélioration du revenu agricole.</li>
+                        </ul>
+                        <p class="texte">Le Plan Maroc Vert adopte un modèle novateur : l'Agrégation. Ce modèle permet notamment de dépasser les contraintes liées à la fragmentation des structures foncières tout en assurant aux exploitations agrégées l'accès aux techniques modernes de production, l'accès au financement et l'accès au marché. </p>
+                        <p class="texte">Il repose sur le déclenchement d'une nouvelle vague d'investissement massif autour de nouveaux acteurs à forte capacité managériale. Il appelle également à la rationalisation des structures de l'industrie et à la mutualisation des moyens autour de Groupements d'intérêts économiques privés et de groupements interprofessionnels. Pour cela, « l'Offre Maroc » consiste en un partenariat Public-Privé « gagnant-gagnant » sur la base de contrats clairement définis.</p>
+                        <p class="texte">La déclinaison du Plan Maroc Vert en plans agricoles régionaux, consiste à construire une vision et une offre agricole régionalisées, respectant dans la mesure du possible l'équilibre entre les deux piliers, et permettant d'engager le Ministère de l'Agriculture et de la Pêche Maritime et ses partenaires régionaux autour d'objectifs communs, et de mobiliser les fonds régionaux et nationaux, les organismes de crédit, les investisseurs, ainsi que les autres bailleurs de fonds désireux de soutenir le Maroc, dans la mise en oeuvre du Plan Maroc Vert.</p>
+                        <p class="texte">Sur la base d'orientations fixées au niveau national et d'un diagnostic régional, un nombre important de projets potentiels et de fiches action ont été retenus pour l'élaboration du Plan Régional Agricole.</p>
+                        <h3>Filières retenues</h3>
+                        <table id="tableau">
+                                <tr>
+                                    <th>Filières</th>
+                                    <th>Unité territoriale</th>
+                                </tr>
+                                <tr style="background-color: white">
+                                    <td style="color:red;">Production végétale (03)</td>
+                                    <td></td>
+                                </tr>
+                                 <tr>
+                                   <td>Filière oléicole</td>
+                                   <td>Toute la zone</td>
+                                </tr>
+                                <tr>
+                                    <td>Filière dattes</td>
+                                    <td>Oasis</td>
+                                </tr>
+                                <tr>
+                                   <td>Filière pommes</td>
+                                   <td>Montagne</td>
+                                 </tr>
+                                <tr style="background-color: white">
+                                 <td style="color:red;">Production animale (04)</td>
+                                 <td></td>
+                                </tr>
+                                <tr>
+                                    <td>Filière viandes rouges</td>
+                                    <td>Montagne + Oasis</td>
+                                </tr>
+                                <tr>
+                                    <td>Filière Viandes blanches</td>
+                                    <td>Oasis</td>
+                                </tr>
+                                <tr>
+                                    <td>Filière lait</td>
+                                    <td>Oasis</td>
+                                </tr>
+                        </table>
+                        <p>&nbsp;</p>
+                        <h3>Nombre de projets</h3>
+                        <table id="tableau">
+                            <tr>
+                                <th>Filière</th>
+                                <th>Piler I</th>
+                                <th>Piler II</th>
+                                <th style="background-color: white">Total</th>
+                            </tr>
+                            <tr>
+                                <td>Dattes</td>
+                                <td>16</td>
+                                <td>2</td>
+                                <td style="background-color: white">18</td>
+                            </tr>
+                            <tr>
+                                <td>Olives</td>
+                                <td>10</td>
+                                <td>2</td>
+                                <td style="background-color: white">12</td>
+                            </tr>
+                            <tr>
+                                <td>Pommes</td>
+                                <td>4</td>
+                                <td>0</td>
+                                <td style="background-color: white">4</td>
+                            </tr>
+                            <tr>
+                                <td>Produits terroir</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td style="background-color: white">1</td>
+                            </tr>
+                            <tr>
+                                <td style="color: red">Production végétale</td>
+                                <td style="color: red">30</td>
+                                <td style="color: red">5</td>
+                                <td style="color: red; background-color: white">35</td>
+                            </tr>
+                            <tr>
+                                <td>Viandes rouges</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td style="background-color: white">2</td>
+                            </tr>
+                            <tr>
+                                <td>Lait</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td style="background-color: white">1</td>
+                            </tr>
+                            <tr>
+                                <td>Viandes blanches</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td style="background-color: white">2</td>
+                            </tr>
+                            <tr>
+                                <td>Miel</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td style="background-color: white">2</td>
+                            </tr>
+                            <tr>
+                                <td>Dattes</td>
+                                <td>16</td>
+                                <td>2</td>
+                                <td style="background-color: white">18</td>
+                            </tr>
+                            <tr>
+                                <td style="color: red">Production animale</td>
+                                <td style="color: red">3</td>
+                                <td style="color: red">4</td>
+                                <td style="color: red; background-color: white">7</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td style="color: red; font-size: large ">Total</td>
+                                <td style="color: red; font-size: large ">33</td>
+                                <td style="color: red; font-size: large ">9</td>
+                                <td style="color: red; background-color: white; font-size: large ">42</td>
+                            </tr>
+                        </table>
+                        <p class="texte">Le Plan constitue ainsi une feuille de route pour le développement agricole de la zone, soutenue par l'accompagnement de l'administration centrale et des pouvoirs publics en matière de réformes sectorielles et institutionnelles. </p>
+                        <p>&nbsp;</p>
+                        <h3>Situation actuelle et objectifs de production</h3>
+                        <table id="tableau">
+                            <tr>
+                                <th>OBJECTIF</th>
+                                <th colspan="2">Situation Actuelle</th>
+                                <th colspan="2">Objectif 2020</th>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td style="color:red;">Production végétale</td>
+                                <td style="color:red;">Superficie</td>
+                                <td style="color:red;">Production</td>
+                                <td style="color:red;">Superficie</td>
+                                <td style="color:red;">Production</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Dattes</td>
+                                <td>15.000</td>
+                                <td>26.000</td>
+                                <td>25.000</td>
+                                <td>53.000</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Olives</td>
+                                <td>7.700</td>
+                                <td>15.000</td>
+                                <td>17.700</td>
+                                <td>123.960</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Pommes</td>
+                                <td>1.500</td>
+                                <td>9.000</td>
+                                <td>1.500</td>
+                                <td>15.000</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Céréales</td>
+                                <td>28.175</td>
+                                <td>55.200</td>
+                                <td>28.175</td>
+                                <td>78.150</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Pomme de terre</td>
+                                <td>450</td>
+                                <td>12.900</td>
+                                <td>500</td>
+                                <td>18.000</td>
+                            </tr>
+                            <tr style="background-color: white; color: red">
+                                <td>Production animale</td>
+                                <td>Effectif</td>
+                                <td>Production</td>
+                                <td>Effectif</td>
+                                <td>Production</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Viandes rouges</td>
+                                <td>422.000</td>
+                                <td>2.160</td>
+                                <td>362.900</td>
+                                <td>3.870</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Viandes</td>
+                                <td>-</td>
+                                <td>1.930</td>
+                                <td>-</td>
+                                <td>6.450</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Lait</td>
+                                <td>34.200</td>
+                                <td>11.000</td>
+                                <td>34.200</td>
+                                <td>11.000</td>
+                            </tr>
+                            <tr style="background-color: white">
+                                <td>Miel</td>
+                                <td>9.300</td>
+                                <td>25</td>
+                                <td>72.500</td>
+                                <td>250</td>
+                            </tr>
+                        </table>
+                        <p>&nbsp;</p>
+                        <h3>Impacts attendus</h3>
+                        <ul>
+                            <li class="texte">VALEUR AJOUTEE (Md DH / AN)</li>
+                            <table id="tableau">
+                                <tr>
+                                    <th>Filière</th>
+                                    <th>Situation Actuelle</th>
+                                    <th>2013</th>
+                                    <th>2020</th>
+                                    <th>Evolution (%)</th>
+                                </tr>
+                                <tr>
+                                    <td>Production végétale</td>
+                                    <td>0,47</td>
+                                    <td>0,81</td>
+                                    <td>2,20</td>
+                                    <td>370</td>
+                                </tr>
+                                <tr>
+                                    <td>Production Animale</td>
+                                    <td>0,10</td>
+                                    <td>0.17</td>
+                                    <td>0,22</td>
+                                    <td>127</td>
+                                </tr>
+                                <tr style="color: red; background-color: white">
+                                    <td>Total</td>
+                                    <td>0,57</td>
+                                    <td>0,98</td>
+                                    <td>2,43</td>
+                                    <td>328</td>
+                                </tr>
+                            </table>
+                            <li class="texte">EMPLOI (1000 JT / AN)</li>
+                            <table id="tableau">
+                                <tr>
+                                    <th>Filière</th>
+                                    <th>Situation Actuelle</th>
+                                    <th>2013</th>
+                                    <th>2020</th>
+                                    <th>Evolution (%)</th>
+                                </tr>
+                                <tr>
+                                    <td>Production végétale</td>
+                                    <td>2.310</td>
+                                    <td>3.051</td>
+                                    <td>3.929</td>
+                                    <td>70</td>
+                                </tr>
+                                <tr>
+                                    <td>Production Animale</td>
+                                    <td>2.250</td>
+                                    <td>3.033</td>
+                                    <td>3.249</td>
+                                    <td>40</td>
+                                </tr>
+                                <tr style="color: red; background-color: white">
+                                    <td>Total</td>
+                                    <td>4.560</td>
+                                    <td>6.083</td>
+                                    <td>7.178</td>
+                                    <td>54</td>
+                                </tr>
+                            </table>
+                        </ul>

@@ -1,0 +1,28 @@
+   <div class="col-md-auto mb-2">
+         <img src="images/tiki-download_file.jfif" class="img-fluid">
+    </div>
+    <div class="col-md-9">
+     <p>&nbsp;</p>
+<h3 style="text-align: center">Promotion de l'investissement agricole privé</h3>
+<h3 style="text-align: center">à travers les aides et les incitations de l'etat</h3>
+                    </div>
+<div class="col-md-12 mb-5">
+<p class="texte">En application des dispositions de la décision conjointe du Ministre d'Agriculture et de la Pêche Maritime et du Ministre de l'Economie et des finances du 24 Janvier 2008 et de la circulaire n° 34 du Monsieur le Secrétaire Général du Ministère d'Agriculture et de la Pêche Maritime du 20 Février 2008 relative aux modalités de traitement des dossiers de demande de l'aide financière de l'état distribuée dans la cadre du Fonds de Développement Agricole, l'ORMVA du Tafilalet a pris les mesures nécessaires pour la réussite de la nouvelle procédure d'octroi des aides dans le cadre du FDA à travers la création d'une cellule FDA, afin de répondre aux mesures de simplification des procédures de traitement des dossiers de demande de l'aide financière de l'état. Cette cellule joue le rôle de Guichet unique et sert d'interlocuteur unique vis-à-vis des agriculteurs de la zone d'action de l'office, en matière d'octroi des aides financières versées directement aux agriculteurs.</p>
+<p class="texte">Siégée au niveau d'un local nouvellement aménagé et dotée des équipements nécessaires et des moyens humains pouvant répondre aux mieux aux exigences de cette nouvelle procédure, le guichet unique ainsi que les services techniques de l'office prennent en charge chaque année les activités suivantes :</p>
+<h3>INSTRUCTION DES DOSSIERS D'AIDES FINANCIÈRES</h3>
+<ul>
+<li class="texte">Réception et vérification de la présence des pièces exigées ; </li>
+<li class="texte">Examen et vérification de la validité et de la conformité des pièces du dossier ;</li>
+<li class="texte">Contrôle de réalisation de l'investissement sur les lieux et établissement du constat de réalisation ; </li>
+<li class="texte">Elaboration d'une note d'observation sur les insuffisances constatées et leur transmission au postulant pour les dossiers non conformes ; </li>
+<li class="texte">Etablissement de la décision d'octroi de l'aide financière et son envoi à l'Agence Régionale du CAM d'Errachidia.</li>
+</ul>
+<h3>SUIVI DES DOSSIERS D'AIDES FINANCIÈRES</h3>
+<ul>
+<li class="texte">Suivi de la situation hebdomadaire de traitement des dossiers de demandes et son envoi aux directions Régionales de Meknès Tafilalet et de l'oriental ; </li>
+<li class="texte">Mise à jour de la base de données des dossiers traités, validés et réglés ; </li>
+<li class="texte">Envoi de la situation mensuelle des dossiers reçus aux directions Régionales cité ci-dessus ; </li>
+<li class="texte">Suivi des dossiers traités mais non encore validés ainsi que les dossiers à problèmes ; </li>
+<li class="texte">Suivi mensuel de l'investissement privé dans le secteur agricole réalisé à travers les aides et les incitations de l'Etat par rubrique et par objet et/ou opération;</li>
+</ul>
+</div>

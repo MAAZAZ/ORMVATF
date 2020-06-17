@@ -1,0 +1,41 @@
+<h3>Réhabilitation des khettaras</h3>
+
+<p classe="texte">
+Une série de programmes d'interventions, visant la sauvegarde de ce patrimoine et de cette ressource, ont pu être réalisés par l'ORMVAT. On cite entre autre : 
+</p>
+
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li>
+Le programme annuel de PMH qui touche une dizaine de khettaras par an;
+</li>
+<li>
+Le programme de développement Rural dans la Tafilalet (PDRT) (1995-2002) a inclue une composante importante relative à l'aménagement et la réhabilitation des khettaras et a concerné plus de  <span style="font-weight: bold; color:black;">50 unités</span> pour un montant global de <span style="font-weight: bold; color:black;">9 MDhs</span>; 
+</li>
+<li>
+En 2002, dans le cadre de coopération tripartite, <span style="font-weight: bold; color:black;">le bailleurs de fonds</span> (Ambassade du Japon), <span style="font-weight: bold; color:black;">le maître d'oeuvre</span> (Association de khettara) et <span style="font-weight: bold; color:black;">l'Assistant technique</span> (ORMVA/TF), 23 khettaras ont été réhabilitées. Le programme est réalisé à raison de 3 à 5 Khettaras par an; 
+</li>
+<li>
+Entre 2003 et fin 2005, <span style="font-weight: bold; color:black;">une étude de développement des communautés rurales à travers la réhabilitation des khettaras</span> dans la zone a été établie. Cette étude a été financée dans le cadre de la coopération <span style="font-weight: bold; color:black;"> Maroco-Japonaise </span> par l'Agence Japonaise de coopération internationale (JICA). La mise en oeuvre de ce programme, dont l'échéance est fixée sur <span style="font-weight: bold; color:black;">20 ans</span>, nécessite un financement de <span style="font-weight: bold; color:black;">562 Mdhs</span> pour le moyen et court terme.
+</li>
+</ul>
+
+<div class="card-group">
+  <div class="card">
+    <img src="images/khettara1.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Vue aérienne des khettaras</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/khettara2.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Coupe d'une khettara</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/khettara3.jpg" class="card-img-top" style="width:90%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Sortie khettara au périmètre</h5>
+    </div>
+  </div>
+</div>

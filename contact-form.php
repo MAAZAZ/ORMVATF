@@ -11,6 +11,6 @@ $txt = "vous avez recu une message de ".$name.".\n\n".$message;
 
 mail($to,$subject,$txt,$headers);
 
-header("Location: Contact.php?message+envoye");
+header("Location: Contact.php?message-envoye");
 
 ?>

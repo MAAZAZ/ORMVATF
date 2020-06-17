@@ -1,0 +1,4 @@
+ <div class="col-md-7">
+                        <img src="images/Organigramme.png">
+                        <a href="fichiers/ormva_organigramme.pdf"><span style="color: whitesmoke">Télécharger le fichier PDF pour plus de détails.</span></a>
+                    </div>

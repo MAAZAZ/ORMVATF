@@ -1,0 +1,25 @@
+ <div>
+                        <img src="images/office.png" class="img-fluid" style="border:none">
+                    </div>
+                    <div class="col-md-9">
+                        <h3>L'<span>O</span>ffice <span>R</span>égional de <span>M</span>ise en <span>V</span>aleur <span>A</span>gricole du <span>T</span>A<span>F</span>ILALET</h3>
+                        <p class="texte" style="font-size: 20px"> ORMVA/TF est Créé par Décret Royal en 1966, c'est un organisme public doté de la personnalité civile et de l'autonomie financière et placé sous la tutelle du Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts. L'ORMVA/TF est administré par un Conseil d'Administration présidé par le Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts. Son siège se situe à Errachidia.</p>
+                    </div>
+                    <div class="col-md-12 mb-5">
+                        <p class="texte">Les missions de l'ORMVA/TF sont :</p>
+                        <ul>
+                            <li class="texte">Il est habilité à promouvoir ou poursuivre dans sa zone d'action, les travaux de remembrement, d'équipement du réseau d'irrigation et de drainage et d'une façon générale, les aménagements tendant à améliorer la productivité agricole.</li>
+                            <li class="texte">Il est chargé de favoriser la mise en valeur des exploitations agricoles et de participer à la formation professionnelle des agriculteurs. </li>
+                            <li class="texte">Il réalise les opérations décidées par le Gouvernement en matière foncière et de mise en valeur, en particulier sur le patrimoine de l'Etat et des collectivités.</li>
+                            <li class="texte">Il peut distribuer les subventions accordées par l'Etat.</li>
+                            <li class="texte">Il prête son concours aux organismes de crédit agricole pour l'instruction des demandes de crédits, la distribution des prêts et le contrôle de leur utilisation, notamment dans le cadre de son programme d'intervention.</li>
+                        </ul>
+                        <h3>Principaux axes d'intervention</h3>
+                        <ul>
+                            <li class="texte">L'aménagement de l'espace agricole à travers le développement de l'irrigation et la réhabilitation des infrastructures hydro-agricoles;</li>
+                            <li class="texte">Le développement des systèmes d'irrigation efficients et la promotion de la production agricole ;</li>
+                            <li class="texte">La diversification des spéculations végétales et animales et la valorisation des productions oasiennes ;</li>
+                            <li class="texte">Le développement de l'élément humain, en tant que facteur déterminant pour la modernisation du secteur agricole et la promotion d'activités complémentaires ;</li>
+                            <li class="texte">La protection du capital productif. L'approche de la mise en oeuvre des actions prend sa force par l'implication et la participation de la population cible et le renforcement de l'esprit de partenariat avec l'ensemble des intervenants en milieu rural.</li>
+                        </ul>
+                    </div>

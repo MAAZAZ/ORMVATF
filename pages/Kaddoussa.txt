@@ -1,0 +1,8 @@
+<div class="col-md-auto center-block">
+<img src="images/kaddoussa.jpg" class="img-fluid">
+</div>
+<div class="col-md-12 mb-5">
+<p>&nbsp;</p>
+<p class="texte">Dans le cadre du programme d'extension d'irrigation à l'aval des barrages lié au Plan Maroc Vert, le Ministère de l'Agriculture, de la Pêche maritime, du développement rural et des eaux et forêts a soumis le projet de développement de l'irrigation et d'adaptation de l'agriculture irriguée aux changements climatiques à l'aval du barrage de kaddoussa (province d'Errachidia) à l'instruction financière auprès des instances de l'Agence française du développement (AFD) et du Fonds Vert.</p>
+<a style="color: black" href="http://www.agriculture.gov.ma/pages/focus/projet-developpement-irrigation-et-adaptation-agriculture-irriguee-aux-changements-climatiques-barrage-kaddoussa"> => Cliquez ici pour savoir plus d'informations sur les rapports environnementaux et sociaux dudit projet</a>
+</div>

@@ -1,0 +1,16 @@
+ <h2 style="text-align:center">L'agriculture solidaire</h2> <br>
+                        <p class="texte">Le Plan Maroc Vert prévoit, dans le cadre de son Pilier II, un accompagnement solidaire de la petite agriculture avec comme principaux objectifs :</p>
+                        <ul>
+                          <li class="texte">La modernisation solidaire de la petite agriculture afin de lutter contre la pauvreté ;</li>
+                          <li class="texte">L'intégration de ces axes dans une stratégie de développement rural intégré et de développement de sources alternatives de revenu.</li>
+                        </ul>
+                        <p class="texte">Entre 600.000 et 800.000 exploitants sont concernés par cette stratégie. Les investissements prévus sont estimés entre 15 et Md de dirhams. Trois millions de ruraux devraient voir leurs conditions de vie améliorées.</p>
+                        <p class="texte">Parmi les outils stratégiques retenus pour la mise en oeuvre de la stratégie, nous citerons :</p>
+                        <ul>
+                           <li class="texte">L'amélioration de la productivité et de la valorisation à travers des actions d'encadrement (formation / vulgarisation) et de développement rural ;</li>
+                           <li class="texte">L'appui à la reconversion vers des secteurs porteurs ;</li>
+                           <li class="texte">Mise en gestion déléguée des fonctions d'animation/encadrement des petits exploitants ;</li>
+                           <li class="texte">Le développement d'outils d'agrégation sociale ;</li>
+                           <li class="texte">Une structure d'appui aux projets de reconversion (50-70 projets pour une population cible de 30 à 40 000 exploitants), d'intensification (100-150 projets soit 1.2 millions de ruraux) et aux projets de diversification (100 -150 projets pour 300 000 exploitants) ;</li>
+                           <li class="texte">La mise en œuvre des innovations institutionnelles qui s'imposent pour affronter les défis de l'eau.</li>
+                        </ul>

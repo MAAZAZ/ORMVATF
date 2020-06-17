@@ -1,0 +1,13 @@
+<div class="col-md-5 mb-5">
+                        <img src="images/directeur.png" class="img-fluid">
+                    </div>
+                    <div class="col-md-6">
+                        <p class="texte">Alors que le Maroc décline sa stratégie du Plan Maroc Vert et commence la mise en oeuvre des projets à l'échelle des 16 régions dont Meknès Tafilalet, nous avons l'honneur de mettre en ligne le portail de l'Office Régional de Mise en Valeur Agricole du Tafilalet (ORMVA/TF), un travail qui valorise les efforts déployés par cet organisme depuis 1966.</p>
+                        <p class="texte">L'ORMVA/TF a de quoi être fier. Sa stratégie d'intervention dans les zones oasiennes et marginales d'Errachidia, Midelt ,Tinghir et Bouarfa, ses domaines d'activités et ses interventions sur le terrain relatifs au développement agricole en général dont il a fait ses spécialités, sa proximité et ses relations étroites avec les grands, moyens et petits agriculteurs lui ont permis de se placer à la tête des organismes moteur de développement agricole des zones oasiennes à écosystème fragile et d'asseoir ainsi sa réputation au niveau national.</p>
+                    </div>
+                    <div class="col-md-12 mb-5">
+                        <p class="texte">Avec son staff de spécialistes, l'ORMVA/TF peut compter sur les valeurs qui ont forgé la compétence de ses ressources humaines, sa crédibilité et sa réputation régionale et nationale.</p>
+                        <p class="texte">L'ORMVA/TF relève sans cesse de nouveaux défis qui s'insèrent dans la stratégie du Plan Maroc Vert et la politique de durabilité de l'écosystème oasien. Les ressources humaines qui font sa fierté travaillent dans un environnement d'échange, de partage, de transfert de technologie et d'accompagnement des agriculteurs.</p>
+                        <p class="texte">Grâce à notre site web vous pouvez suivre nos activités, réalisations sur le terrain, avoir des informations sur les sujets d'actualité et télécharger des documents fruits du travail de nos équipes de terrain.</p>
+                        <p class="texte">Alors, bienvenue et bonne navigation !</p>
+                    </div>

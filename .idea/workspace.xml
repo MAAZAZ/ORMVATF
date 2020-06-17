@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af03fc5-9f60-4542-85fe-544671464c32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Amenagement-parcours.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Campagne-agricole.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Etudes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/F-animales.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/F-vegetales.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/GH.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Guide-investissement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Imprimes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Kaddoussa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Khettara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Missions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Monographie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Mot-directeur.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Oasis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Organigramme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Organisations-pro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/PAR.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/PMH.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Pistes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Presentation-GU.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Presentation-PI.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Procedure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Projet-Pilier-I.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Projet-Pilier-II.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/SIL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Suivi-investissements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Etudes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/GH.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/PMH.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Pistes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Systeme-irrigation-localisee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Campagne-agricole.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Filiere-animales.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Filieres-vegetales.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Organisations-professionnelles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Depliants+Brochures.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Fiches+Techniques.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Rapports.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Textes+de+Lois.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guichet-unique/Imprimes-a-telecharger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guichet-unique/Presentation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guichet-unique/Procedure-octroi-subvention.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Khettara.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Médiatèque.php" beforeDir="false" afterPath="$PROJECT_DIR$/Médiatèque.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oasis.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office.php" beforeDir="false" afterPath="$PROJECT_DIR$/ORMVATF.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office/Missions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office/Monographie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office/Mot_du_Directeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office/Organigramme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/PAR.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/Projet-Pilier-I.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/Projet-Pilier-II.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Guide-investissement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Presentation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Suivi-investissements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets-structurants/Amenagement-de-parcours.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets-structurants/kaddoussa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RH.php" beforeDir="false" afterPath="$PROJECT_DIR$/RH.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/DEPLIANTS &amp; BROCHURES/Dépliant OMRVATF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/FICHES TECHNIQUES/التلقيح الاصطناعي.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/FICHES TECHNIQUES/السلوجة.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/BO PUBLICATION COMPTES ORMVA_TF 2013.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/Bilan SIDATTES 2016 def.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/PUBLICATION AU BO des Etats de synthese 2014.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT DE GESTION  2008.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT DE GESTION CA 2012 VF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/Rapport gestion CA 2011.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/rapport de gestion 2009.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/rapport de gestion 2010 VF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/ARRERE ORG ORMVATF 76,84 &amp; 87.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/DECRET ROYAL CREATION ORMVATF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/LOI_N_10-95 SUR L-'EAU.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/RECUEILS TEXTES JURIDIQUES AGRICULTURE 2010.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/Subdivions et CMV ORMVA Tafilalet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/TEXTES DELIMITANT PERIMETRES IRRIGUES ORMVATF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/TEXTES DELIMITANT ZONE D-'ACTION ORMVATF..pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/agence.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/agence.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="git pull origin master" />
+      <command text="git pull --rebase origin master" />
+      <command text="git pull &quot;https://github.com/MAAZAZ/ORMVA-TF.git&quot;" />
+      <command text="git pull upstream master" />
+      <command text="git push origin master" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dSUJgAnkrgdIHEpymmE3SujIge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vcs.patch.to.clipboard" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ORMVA" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af03fc5-9f60-4542-85fe-544671464c32" name="Default Changelist" comment="" />
+      <created>1562797037948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562797037948</updated>
+      <workItem from="1562797039118" duration="19340000" />
+      <workItem from="1563142709490" duration="13738000" />
+      <workItem from="1563820106174" duration="9977000" />
+      <workItem from="1563855139497" duration="19828000" />
+      <workItem from="1564248933443" duration="81072000" />
+      <workItem from="1564968360500" duration="20531000" />
+      <workItem from="1565306015307" duration="1328000" />
+      <workItem from="1566220711724" duration="1541000" />
+      <workItem from="1566222307964" duration="14763000" />
+      <workItem from="1566613441979" duration="639000" />
+      <workItem from="1566614100284" duration="882000" />
+      <workItem from="1566651262672" duration="982000" />
+      <workItem from="1566652283305" duration="9972000" />
+      <workItem from="1566683128970" duration="163000" />
+      <workItem from="1566837940728" duration="1380000" />
+      <workItem from="1566942830809" duration="5969000" />
+      <workItem from="1566960056828" duration="2026000" />
+      <workItem from="1566966655241" duration="3234000" />
+      <workItem from="1567010978642" duration="2134000" />
+      <workItem from="1567037835452" duration="13782000" />
+      <workItem from="1567053978450" duration="29000" />
+      <workItem from="1567103179344" duration="10948000" />
+      <workItem from="1567676685559" duration="13242000" />
+      <workItem from="1567761067735" duration="605000" />
+      <workItem from="1567763235475" duration="227000" />
+      <workItem from="1573514346528" duration="646000" />
+      <workItem from="1575581547463" duration="4444000" />
+      <workItem from="1587062493342" duration="221000" />
+      <workItem from="1592410278672" duration="2119000" />
+      <workItem from="1592417929455" duration="2196000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1566614171824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566614171824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1592417989498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592417989498" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1592418081934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1592418081934" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592420364008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592420364008" />
+  </component>
+</project>

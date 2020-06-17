@@ -43,7 +43,7 @@ include_once "BDD.php";
                     </a>
                 </li>
 
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a href="Documentation.php" class="nav-link">
                         <p class="menu-cont">Documentation</p>
                     </a>
@@ -55,8 +55,8 @@ include_once "BDD.php";
                     </a>
                 </li>
 
-                <li class="nav-item active">
-                    <a href="Contact.php" class="nav-link active">
+                <li class="nav-item">
+                    <a href="Contact.php" class="nav-link">
                         <p class="menu-cont">Contact</p>
                     </a>
                 </li>
@@ -210,7 +210,6 @@ include_once "BDD.php";
                 </div>
             </div>
 
-
             <!-- The Modal -->
             <div class="col-md-4">
                 <div class="media block-6">
@@ -273,49 +272,55 @@ include_once "BDD.php";
                 </div>
 
             </div>
+
         </div>
     </div>
 
     <div class="featured-donate overlay-color" style="background-image: url('images/plan.jpg');">
         <div class="site-section">
             <div class="container">
-                <div style="margin-top: 1%"></div>
-                <div class="row block-9">
-                    <div class="col-md-6 pr-md-5">
-                        <h1>Contactez-nous</h1>
-                        <br>
-                        <h6>Renseignez les champs ci-dessous :</h6>
-                        <form action="contact-form.php" method="post">
-                            <div class="form-group">
-                                <p class="texte">Nom et prenom (*) :</p>
-                                <input name="name" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Email (*) :</p>
-                                <input name="email" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Objet (*) :</p>
-                                <input name="subject" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Message (*) :</p>
-                                <textarea name="message" id="" cols="30" rows="7" class="form-control px-3 py-3" placeholder="Ecrire votre message ici .." required></textarea>
-                            </div>
-                            <div class="form-group">
-                                <input type="submit" value="Envoyer" class="btn btn-primary py-3 px-5">
-                            </div>
-                        </form>
-                        <p style="color: red; background-color: whitesmoke; text-align: center"> Les champs marqués d'un astérisque (*) sont obligatoires.</p>
+                <div class="row no-gutters">
+                    <div class="col-md-5">
+                <?php if($_GET['genre']==1)
+                    echo '<h3>'.'DÉPLIANTS & BROCHURES'.'</h3>';
+                else if($_GET['genre']==2)
+                    echo '<h3>'.'FICHES TECHNIQUES'.'</h3>';
+                else if($_GET['genre']==3)
+                    echo '<h3>'.'RAPPORTS'.'</h3>';
+                else if($_GET['genre']==4)
+                    echo '<h3>'.'TEXTES DE LOIS'.'</h3>';
+                else
+                    echo '<h3>'.'Page Non Found'.'</h3>';
+                ?>
                     </div>
+                </div>
 
-                    <div class="col-md-6" style="padding-top: 15%">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6771.77168608419!2d-4.420666615530534!3d31.936856545480197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd984ac00d3b6629%3A0x12f781a2d938aff8!2sORMVA%2FTF!5e0!3m2!1sfr!2sma!4v1563850624378!5m2!1sfr!2sma" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <hr>
+
+                <div class="row no-gutters">
+                    <div class="col-md-5 center-block">
+                        <table id="tableau">
+                            <?php if($_GET['genre']==1 || $_GET['genre']==2 || $_GET['genre']==3 || $_GET['genre']==4){
+                            echo '<tr>'.'<th>'.'Type'.'</th>';
+                            echo '<th>'.'Nom'.'</th>'.'</tr>';
+                            }
+                            ?>
+
+                            <?php foreach ($rows as $row): ?>
+                                <?php if($row['numero_genre']==$_GET['genre']): ?>
+                                    <tr>
+                                        <td><?= $row['type'] ?></td>
+                                        <td> <a href="<?= $row['lien'] ?>"> <?= $row['nom'] ?> </a> </td>
+                                    </tr>
+                                <?php endif; ?>
+                            <?php endforeach; ?>
+                        </table>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <footer class="footer">
         <div class="container">
@@ -348,7 +353,6 @@ include_once "BDD.php";
                         </div>
                     </div>
                 </div>
-
                 <hr>
 
                 <div class="col-md-6 col-lg-4">
@@ -387,4 +391,4 @@ include_once "BDD.php";
     <script src="js/main.js"></script>
     <script src="js/meteo.js"></script>
 </body>
-</html>
+

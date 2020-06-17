@@ -1,0 +1,94 @@
+<div class="col-md-12 mb-5"> 
+                        </ol>
+                        <p class="texte">Sur une superficie de 60.000 ha (0,8% de la superficie totale), le secteur agricole occupe une place économique et sociale importante dans la zone. En effet, l'agriculture demeure la principale activité économique dans le Tafilalet (90%), pour une population d'environ 600.000 habitants, dont 71% sont des ruraux.</p>
+                        <ol>
+                            <li class="texte">MILIEU PHYSIQUE</li>
+
+                            <table id="tableau">
+                                <tr>
+                                    <td>Superficie totale</td>
+                                    <td>77.250 Km²</td>
+                                </tr>
+                                <ul>
+                                    <tr>
+                                        <td class="element">Superficie irriguée</td>
+                                        <td class="element">60.000 ha (0,8%)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="element">Superficie forestière</td>
+                                        <td class="element">115.000 ha (1,5%)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="element">Parcours</td>
+                                        <td class="element">3.500.000 ha (45,3 %)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="element">Terrains incultes</td>
+                                        <td class="element">4.000.000 ha (52,4 %)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pluviométrie</td>
+                                        <td>60 à 250 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Température</td>
+                                        <td>-1,5° à 50 °C</td>
+                                    </tr>
+                            </table>
+                            <hr>
+                            <li class="texte">SYSTEMES DE PRODUCTION</li>
+                            <p class="text"><span style="font-weight: bold"> Zone de montagne : </span> Ce système de culture comprend deux étages : les rosacées fruitières (pommiers, poiriers et cognassiers) et les cultures basses (céréales, luzerne et cultures maraîchères) associées à l'élevage bovin et ovin extensif. Il est spécifique au Haut Ziz, Haut Guir et Haut Ghéris. </p>
+                            <p class="text"><span style="font-weight: bold"> Zone intermédiaire : </span> 	Ce système de culture comprend trois étages à savoir : le palmier, l'olivier et les cultures sous-jacentes (céréales, luzerne, légumineuses et maraîchage). Ce Système est pratiqué au niveau des vallées moyennes du Ziz, Ghéris et Guir. </p>
+                            <p class="text"><span style="font-weight: bold"> Zone de plaine : </span> La plaine se caractérise par un système de culture à deux étages : le palmier dattier et les cultures sous-jacentes (céréales, luzerne et henné) associées à l'élevage ovin intensif de race D'man. Ce système est conduit au niveau de la plaine du Tafilalet, au bas Ghéris et bas Todgha. </p>
+                            <hr>
+                            <li class="texte">RESSOURCES EN EAU</li>
+                            <ul>
+                                <li class="texte">Eaux superficielles</li>
+                                <table id="tableau">
+                                    <tr>
+                                        <th>Bassin versant</th>
+                                        <th>Apports moyens annuels (Mm<sup>3</sup>)</th>
+                                        <th>Niveau de mobilisation</th>
+                                    </tr>
+                                    <tr>
+                                        <td>ZIZ</td>
+                                        <td>223</td>
+                                        <td>95 %</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>GHERIS</td>
+                                        <td>125</td>
+                                        <td>80 %</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>GUIR</td>
+                                        <td>188</td>
+                                        <td>34 %</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>MAIDER</td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>TOTAL</td>
+                                        <td>536</td>
+                                        <td>68 %</td>
+                                    </tr>
+
+                                </table>
+
+                                <li class="texte">Eaux souterraines (200 Mm<sup>3</sup>) </li>
+                                <ul>
+                                    <li class="texte">6.500 puits privés équipés;</li>
+                                    <li class="texte">75 Stations collectives de pompage créées par l'Office;</li>
+                                    <li class="texte">570 Khettaras dont 250 fonctionnelles.</li>
+                                </ul>
+                            </ul>
+                        </ol>
+
+</div>

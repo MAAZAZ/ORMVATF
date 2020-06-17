@@ -1,0 +1,57 @@
+<div class="col-md-12 mb-5">
+<h3>ETUDES ET PROJETS REALISES OU EN COURS DE REALISATION (2008-2010)</h3>
+
+<h4>Etudes d'aménagements</h4>
+
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li>
+Etude de transfert des eaux de crues de l'oued Guir Vers oued Ziz (étude topographique, étude hydrologique et étude de faisabilité) ;
+</li>
+<li>
+Etude du périmètre El Khorbat ;
+</li>
+<li>
+Assistance technique pour le contrôle des prestations El Ghaba ;
+</li>
+<li>
+Etude d'aménagement aval du barrage Timkit au profit de la palmeraie de Tinjdad.
+</li>
+</ul>
+
+<h4>Programme petite et moyenne hydraulique</h4>
+
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li style="color:orange;">
+Programme dégâts de crues :
+<p classe=texte"> Les pluies torrentielles survenues en 2008 ont engendrés de fortes crues des différents oueds et affluents de la zone et qui ont causés des dégâts importants au niveau des infrastructures d'irrigation. L'enveloppe budgétaire allouée à leur réparation est 30,5 MDhs .</p>
+
+<div class="card-group">
+  <div class="card">
+    <img src="images/etude1.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+  </div>
+  <div class="card">
+    <img src="images/etude2.jpg" class="card-img-top" style="width:90%; margin-left:auto; margin-right:auto;">
+  </div>
+  <div class="card">
+    <img src="images/etude3.jpg" class="card-img-top" style="width:90%; margin-left:auto; margin-right:auto;">
+  </div>
+</div>
+
+</li>
+<li style="color:orange;">
+Réhabilitation périmètre El Ghaba à Boudenib (CR Oued Naam) :
+<p classe=texte">Construction seuil de dérivation avec ouvrages annexes et réseau d'irrigation sur 14.600 ml.</p>
+</li>
+<li style="color:orange;">
+Aménagement séguias, khettaras et murs de protections : <span style="font-weight: bold">2,3 MDhs</span>
+</li>
+</ul>
+
+<h4>Programme de partenariat</h4>
+<p classe="texte">Ce programme consiste en :</p>
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li>l'encadrement des associations et des groupements ethniques désirant réaliser les projets hydro agricoles.</li>
+<li>L'ORMVAT se charge des études, fournitures de matériaux et matériel et les bénéficiaires se chargent de la main d'oeuvre.</li>
+<li>L'enveloppe alloué à ce programme est 353.950 Dhs (ORMVATF : 117.450Dhs et bénéficiaires : 236.500Dhs).</li>
+</ul>
+</div>

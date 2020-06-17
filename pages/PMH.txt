@@ -1,0 +1,46 @@
+<div class="col-md-12 mb-5">
+<h3>Programme petite et moyenne hydraulique</h3>
+<p classe="texte"> Les principales interventions se déclinent autour des axes suivants :</p>
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li>
+Construction et aménagement des digues traditionnelles et ouvrages de dérivation 
+</li>
+<li>
+Construction et aménagement des séguias 
+</li>
+<li>
+Construction des murs de protections 
+</li>
+<li>
+Réhabilitation des khettaras 
+</li>
+<li>
+Aménagement des sources 
+</li>
+<li>
+Création, renouvellement et équipement des stations de pompage
+</li>
+</ul>
+
+<div class="card-group">
+  <div class="card">
+    <img src="images/seguia.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Séguia</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/mur-protection.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Mur de protection</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/khettarat.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Khettara</h5>
+    </div>
+  </div>
+</div>
+
+</div>

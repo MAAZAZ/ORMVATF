@@ -3,6 +3,7 @@ include_once "cookies.php";
 include_once "BDD.php";
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +32,7 @@ include_once "BDD.php";
 
             <ul class="navbar-nav ml-auto">
 
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a href="index.php" class="nav-link">
                         <p class="menu-cont">Acceuil</p>
                     </a>
@@ -55,8 +56,8 @@ include_once "BDD.php";
                     </a>
                 </li>
 
-                <li class="nav-item active">
-                    <a href="Contact.php" class="nav-link active">
+                <li class="nav-item">
+                    <a href="Contact.php" class="nav-link">
                         <p class="menu-cont">Contact</p>
                     </a>
                 </li>
@@ -73,7 +74,7 @@ include_once "BDD.php";
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-7">
-                        <h3 class="heading" style="font-size: 70px;text-align: center;">Office Régional de Mise en Valeur Agricole du Tafilalet</h3>
+                        <h3 class="heading" style="font-size: 70px; text-align: center;">Office Régional de Mise en Valeur Agricole du Tafilalet</h3>
                     </div>
                 </div>
             </div>
@@ -204,12 +205,11 @@ include_once "BDD.php";
                 <div class="media block-6">
                     <div class="media-body">
                         <center>
-                            <a href="Ressources.php?set=Oasis"><img class="icone" src="images/oasis.jpg"></a>
+                            <a href="Ressources.php?set=Oasis"><img class="icone"  src="images/oasis.jpg"></a>
                         </center>
                     </div>
                 </div>
             </div>
-
 
             <!-- The Modal -->
             <div class="col-md-4">
@@ -273,44 +273,20 @@ include_once "BDD.php";
                 </div>
 
             </div>
+
         </div>
     </div>
 
-    <div class="featured-donate overlay-color" style="background-image: url('images/plan.jpg');">
-        <div class="site-section">
+    <div class="featured-donate overlay-color">
+        <div class="site-section mb-5">
             <div class="container">
-                <div style="margin-top: 1%"></div>
-                <div class="row block-9">
-                    <div class="col-md-6 pr-md-5">
-                        <h1>Contactez-nous</h1>
-                        <br>
-                        <h6>Renseignez les champs ci-dessous :</h6>
-                        <form action="contact-form.php" method="post">
-                            <div class="form-group">
-                                <p class="texte">Nom et prenom (*) :</p>
-                                <input name="name" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Email (*) :</p>
-                                <input name="email" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Objet (*) :</p>
-                                <input name="subject" type="text" class="form-control px-3 py-3" placeholder="" required>
-                            </div>
-                            <div class="form-group">
-                                <p class="texte">Message (*) :</p>
-                                <textarea name="message" id="" cols="30" rows="7" class="form-control px-3 py-3" placeholder="Ecrire votre message ici .." required></textarea>
-                            </div>
-                            <div class="form-group">
-                                <input type="submit" value="Envoyer" class="btn btn-primary py-3 px-5">
-                            </div>
-                        </form>
-                        <p style="color: red; background-color: whitesmoke; text-align: center"> Les champs marqués d'un astérisque (*) sont obligatoires.</p>
+                <div class="row mb-5">
+                    <div>
+                        <img src="images/office.jpg" class="img-fluid">
                     </div>
-
-                    <div class="col-md-6" style="padding-top: 15%">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6771.77168608419!2d-4.420666615530534!3d31.936856545480197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd984ac00d3b6629%3A0x12f781a2d938aff8!2sORMVA%2FTF!5e0!3m2!1sfr!2sma!4v1563850624378!5m2!1sfr!2sma" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <div class="col-md-9">
+                        <h3>L’<span>O</span>ffice <span>R</span>égional de <span>M</span>ise en <span>V</span>aleur <span>A</span>gricole du <span>T</span>A<span>F</span>ILALET</h3>
+                        <p class="texte" style="font-size: 20px"> ORMVA/TF est Créé par Décret Royal en 1966, c'est un organisme public doté de la personnalité civile et de l’autonomie financière et placé sous la tutelle du Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts. L’ORMVA/TF est administré par un Conseil d’Administration présidé par le Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts. Son siège se situe à Errachidia.</p>
                     </div>
                 </div>
             </div>
@@ -327,6 +303,7 @@ include_once "BDD.php";
                 </div>
 
                 <hr>
+
 
                 <div class="col-md-6 col-lg-4" style="margin-bottom: 10%;">
                     <h3 class="heading-section">Liens utiles</h3>
@@ -387,4 +364,3 @@ include_once "BDD.php";
     <script src="js/main.js"></script>
     <script src="js/meteo.js"></script>
 </body>
-</html>

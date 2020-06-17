@@ -1,0 +1,26 @@
+<div class="col-md-12 mb-5">
+<h3>Aménagement des périmètres d'épandage des eaux de crues</h3>
+<p classe="texte">En matière d'aménagement des périmètres d'épandage des eaux de crues, quatre (<span style="font-weight: bold">4</span>) importants programmes ont été entrepris au cours des dix (<span style="font-weight: bold">10</span>) dernières années d’une enveloppe globale de <span style="font-weight: bold">318 MDhs</span>. La superficie globale touchée par ces aménagements avoisine <span style="font-weight: bold">28.300 ha</span> (15 périmètres) dont <span style="font-weight: bold">13.900 ha</span> au profit de la plaine du Tafilalet.</p>
+
+<div class="card-group">
+  <div class="card">
+    <img src="images/barrage1.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Barrage My Brahim</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/barrage2.jpg" class="card-img-top" style="width:90%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Barrage Lahcini</h5>
+    </div>
+  </div>
+  <div class="card">
+    <img src="images/barrage3.jpg" class="card-img-top" style="width:100%; margin-left:auto; margin-right:auto;">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align:center;">Barrage Jbel Lakhal</h5>
+    </div>
+  </div>
+</div>
+
+</div>

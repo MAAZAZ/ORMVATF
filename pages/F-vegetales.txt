@@ -1,0 +1,62 @@
+<div class="col-md-12 mb-5">
+                        <h3>Production végétales</h3>
+                        <ul>
+                            <li class="texte" style="color: black">Arboriculture</li>
+                            <table id="tableau">
+                                <tr>
+                                    <th>Spéculations</th>
+                                    <th>Nombre de pieds</th>
+                                    <th>Production moyenne (Tonnes)</th>
+                                </tr>
+                                <tr>
+                                    <td>Palmier dattier</td>
+                                    <td>1.500.000</td>
+                                    <td>26.000</td>
+                                </tr>
+                                <tr>
+                                    <td>Olivier</td>
+                                    <td>1.900.000</td>
+                                    <td>15.300</td>
+                                </tr>
+                                <tr>
+                                    <td>Pommier</td>
+                                    <td>516.000</td>
+                                    <td>9.000</td>
+                                </tr>
+                            </table>
+                            <li class="texte" style="color: black">Cultures basses</li>
+                            <table id="tableau">
+                                <tr>
+                                    <th>Spéculations</th>
+                                    <th>Nombre de pieds</th>
+                                    <th>Production moyenne (Tonnes)</th>
+                                </tr>
+                                <tr>
+                                    <td>Céréales</td>
+                                    <td>36.600</td>
+                                    <td>83.950</td>
+                                </tr>
+                                <tr>
+                                    <td>Maraîchage</td>
+                                    <td>2.000</td>
+                                    <td>36.300</td>
+                                </tr>
+                                <tr>
+                                    <td>Fève</td>
+                                    <td>1.560</td>
+                                    <td>2.400</td>
+                                </tr>
+                                <tr>
+                                    <td>Henné</td>
+                                    <td>640</td>
+                                    <td>1.700</td>
+                                </tr>
+                                <tr>
+                                    <td>Luzerne</td>
+                                    <td>9.250</td>
+                                    <td>585.000</td>
+                                </tr>
+                            </table>
+                        </ul>
+                        <p class="texte">La valeur moyenne des productions végétales s'élève à 800 MDh pour une année à pluviométrie normale</p>
+                    </div>

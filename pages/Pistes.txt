@@ -1,0 +1,69 @@
+<div class="col-md-12 mb-5">
+<h4>AMÉNAGEMENT HYDRO-AGRICOLE</h4>
+<h5>Mobilisation des eaux</h5>
+<p class="texte">Le bilan global d'exploitation des ressources en eaux par les infrastructures d'irrigation mises en place est donné comme suit:</p>
+<table id="tableau">
+                                <tr>
+                                    <th>Bassin Versant</th>
+                                    <th>Potentiel mobilisable ( Mm<sup>3</sup> )</th>
+				    <th>Potentiel mobilisé ( Mm<sup>3</sup> )</th>
+				    <th>Taux de mobilisation (%)</th>
+                                </tr>
+                                <tr style="color:red">
+                                    <td>Eaux de surfaces</td>
+                                    <td>536</td>
+                                    <td>386</td>
+                                    <td>72</td>
+                                </tr>
+				<tr>
+                                    <td>Ziz</td>
+                                    <td>223</td>
+                                    <td>211</td>
+                                    <td>95</td>
+                                </tr>
+				<tr>
+                                    <td>Gheris</td>
+                                    <td>125</td>
+                                    <td>106</td>
+                                    <td>85</td>
+                                </tr>
+				<tr>
+                                    <td>Guir</td>
+                                    <td>188</td>
+                                    <td>69</td>
+                                    <td>37</td>
+                                </tr>
+				<tr style="color:red">
+                                    <td>Eaux Souterraines</td>
+                                    <td>186</td>
+                                    <td>93</td>
+                                    <td>50</td>
+                                </tr>
+				<tr>
+                                    <td>Tous les bassins</td>
+                                    <td>186</td>
+                                    <td>93</td>
+                                    <td>50</td>
+                                </tr>
+				<tr style="color:red">
+                                    <td>Total</td>
+                                    <td>722</td>
+                                    <td>489</td>
+                                    <td>66</td>
+                                </tr>
+                            </table>
+<br>
+<h4>PRINCIPALES RÉALISATIONS</h4>
+<p class="texte">En matière d'aménagement, les programmes d'intervention ont été conçus de façon à permettre l'exploitation rationnelle et la mobilisation des différents types de ressources en eaux (eaux pérennes, eaux se crues et eaux souterraines) :</p>
+<ul style=" font-family: Arial; color: white; font-size: 17px; text-align: justify;">
+<li>
+Aménagement Hydraulique
+</li>
+<li>
+Aménagement des eaux de crues
+</li>
+<li>
+Réhabilitation des khettaras
+</li>
+</ul>
+</div>
