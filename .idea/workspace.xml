@@ -29,99 +29,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8af03fc5-9f60-4542-85fe-544671464c32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Amenagement-parcours.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Campagne-agricole.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Etudes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/F-animales.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/F-vegetales.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/GH.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Guide-investissement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Imprimes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Kaddoussa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Khettara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Missions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Monographie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Mot-directeur.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Oasis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Organigramme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Organisations-pro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/PAR.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/PMH.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Pistes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Presentation-GU.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Presentation-PI.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Procedure.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Projet-Pilier-I.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Projet-Pilier-II.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/SIL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Suivi-investissements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Etudes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/GH.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/PMH.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Pistes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amenagements-et-service-eau/Systeme-irrigation-localisee.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Campagne-agricole.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Filiere-animales.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Filieres-vegetales.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Developpement-agricole/Organisations-professionnelles.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/Depliants+Brochures.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/Fiches+Techniques.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/Rapports.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/Textes+de+Lois.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guichet-unique/Imprimes-a-telecharger.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guichet-unique/Presentation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guichet-unique/Procedure-octroi-subvention.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Khettara.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Médiatèque.php" beforeDir="false" afterPath="$PROJECT_DIR$/Médiatèque.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oasis.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Office.php" beforeDir="false" afterPath="$PROJECT_DIR$/ORMVATF.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Office/Missions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Office/Monographie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Office/Mot_du_Directeur.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Office/Organigramme.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/PAR.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/Projet-Pilier-I.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plan-maroc-vert/Projet-Pilier-II.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Guide-investissement.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Presentation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Potentialites-d'investissement/Suivi-investissements.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projets-structurants/Amenagement-de-parcours.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projets-structurants/kaddoussa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RH.php" beforeDir="false" afterPath="$PROJECT_DIR$/RH.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact-form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/DEPLIANTS &amp; BROCHURES/Dépliant OMRVATF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/FICHES TECHNIQUES/التلقيح الاصطناعي.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/FICHES TECHNIQUES/السلوجة.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/BO PUBLICATION COMPTES ORMVA_TF 2013.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/Bilan SIDATTES 2016 def.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/PUBLICATION AU BO des Etats de synthese 2014.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT DE GESTION  2008.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT DE GESTION CA 2012 VF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/RAPPORT GESTION 2013 PART5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/Rapport gestion CA 2011.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/rapport de gestion 2009.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/RAPPORTS/rapport de gestion 2010 VF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/ARRERE ORG ORMVATF 76,84 &amp; 87.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/DECRET ROYAL CREATION ORMVATF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/LOI_N_10-95 SUR L-'EAU.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/RECUEILS TEXTES JURIDIQUES AGRICULTURE 2010.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/Subdivions et CMV ORMVA Tafilalet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/TEXTES DELIMITANT PERIMETRES IRRIGUES ORMVATF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichiers/TEXTES DE LOIS/TEXTES DELIMITANT ZONE D-'ACTION ORMVATF..pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/agence.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/agence.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="8af03fc5-9f60-4542-85fe-544671464c32" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +91,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Editor-html-js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,6 +145,7 @@
       <workItem from="1587062493342" duration="221000" />
       <workItem from="1592410278672" duration="2119000" />
       <workItem from="1592417929455" duration="2196000" />
+      <workItem from="1594517236951" duration="431000" />
     </task>
     <task id="LOCAL-00001">
       <created>1566614171824</created>
@@ -261,15 +170,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1592417989498">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1594517679338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592417989498" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594517679338" />
     <state x="647" y="310" key="Github.ShareDialog" timestamp="1592418081934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
